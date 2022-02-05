@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=The+Nautigal:wght@700&display=swap');
+
+.header{
+    font-family: 'The Nautigal', cursive;
+    font-size: x-large;
+    border-bottom: 1px none black;
+    box-shadow: 8px 5px 5px #888888;
+    margin-bottom: 50px;
+    height: 100px;
+}
